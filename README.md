@@ -1,2 +1,2 @@
 # ASEdemo 
-Lab Asiignment 1: https://www.w3schools.com/html/html_images.asp
+<p><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
